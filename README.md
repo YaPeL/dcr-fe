@@ -1,9 +1,9 @@
-# dcr-fe
+# Degree Confluence Rebirth FrontEnd
 
 ## Project config
-'''
+
 edit the env.development.local with the appropiate VUE_APP_GMAP_API_KEY
-'''
+
 
 ## Project setup
 ```
@@ -25,8 +25,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Compass app usage
 * Use the form to set your current location (address, city, country), no need to fill the 3 of them, but for address I would recommend also filling city
